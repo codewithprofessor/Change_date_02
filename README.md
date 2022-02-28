@@ -22,7 +22,7 @@
 
 ***
 
-
+<!-- /home/professor/Music/c++/cng-date02/git/07Copy_any_code/01Lecture/01Before_Mid/28Feb2022 -->
 # 01 Lecture Schedule
 
 #### [1. 21feb2022](01Lecture/01Before_Mid/21Feb2022)
@@ -33,6 +33,10 @@
 >    - What is Structure_image?
 >
 >    - What is Function_image?
+#### [2. 28feb2022](01Lecture/01Before_Mid/28Feb2022)
+>    - 01_Hello_Word
+> 
+>    - 02_Class_Practice
 ***
 # 02 Assignment Schedule
 ##### Uploded Soon
@@ -58,16 +62,9 @@ _
 ### Here you Can copy any Code Easily...
 
 #### [1. 21feb2022](07Copy_any_code/01Lecture/01Before_Mid/21Feb2022)
->    - 01_Function_Basics.md
->
->    - 02_Structure_Pass_Value_to_Function.md
+#### [2. 28feb2022](07Copy_any_code/01Lecture/01Before_Mid/28Feb2022)
+
 # 08 Videos 
-### Here you Can watch the Videos of Any Lecture which is uploded in 01Lecture
-### Please [Click here](https://github.com/codewithprofessor/Change_date_02_Videos.git) For Videos
-#### [1. 21feb2022](https://github.com/codewithprofessor/Change_date_02_Videos/tree/master/01Before_Mid/21Feb2022)
->    - 01_What is Structure?
->
->    - 02 What is Function?
 
 # 09 About the Author
 ### ~~_**Mr.Ali**_~~
