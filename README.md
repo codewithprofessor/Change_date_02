@@ -64,7 +64,7 @@ _
 # 08 Videos 
 ### Here you Can watch the Videos of Any Lecture which is uploded in 01Lecture
 ### Please [Click here](https://github.com/codewithprofessor/Change_date_02_Videos.git) For Videos
-#### [1. 21feb2022]
+#### [1. 21feb2022](https://github.com/codewithprofessor/Change_date_02_Videos/tree/master/01Before_Mid/21Feb2022)
 >    - 01_What is Structure?
 >
 >    - 02 What is Function?
