@@ -37,9 +37,16 @@
 >    - 01_Hello_Word
 > 
 >    - 02_Class_Practice
+#### [3. 01March2022](01Lecture/01Before_Mid/01March2022)
+>    - 01 Class Task 01 (How to Call Function)
+>
+>    - 02 Class Task 02 (How to Call Function)
 ***
 # 02 Assignment Schedule
-##### Uploded Soon
+#### [01. Assignment#01](02Assignment/01Before_Mid/01Assignment#01)
+>    - All Questions Are Solved
+>
+>    - 07 or 08 is  Question paper
 
 # 03 Quiz Schedule
 ##### Uploded Soon
@@ -63,9 +70,13 @@ _
 
 #### [1. 21feb2022](07Copy_any_code/01Lecture/01Before_Mid/21Feb2022)
 #### [2. 28feb2022](07Copy_any_code/01Lecture/01Before_Mid/28Feb2022)
+#### [2. 01March2022](07Copy_any_code/01Lecture/01Before_Mid/01March2022)
+
+***
+#### [01. Assignment#01](07Copy_any_code/02Assignment/01Before_Mid/01Assignment#01)
 
 # 08 Videos 
-
+### Uploaded Soon
 # 09 About the Author
 ### ~~_**Mr.Ali**_~~
 ![Author](09Readme_Data/01image.jpeg)
