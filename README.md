@@ -43,10 +43,9 @@
 >    - 02 Class Task 02 (How to Call Function)
 ***
 # 02 Assignment Schedule
-#### [01. Assignment#01](02Assignment/01Before_Mid/01Assignment#01)
+#### [01. Assignment#01](02Assignment/01Before_Mid/01Assignment_01)
 >    - All Questions Are Solved
->
->    - 07 or 08 is  Question paper
+
 
 # 03 Quiz Schedule
 ##### Uploded Soon
@@ -68,12 +67,17 @@ _
 # 07 Copy_Any_Code
 ### Here you Can copy any Code Easily...
 
-#### [1. 21feb2022](07Copy_any_code/01Lecture/01Before_Mid/21Feb2022)
-#### [2. 28feb2022](07Copy_any_code/01Lecture/01Before_Mid/28Feb2022)
-#### [2. 01March2022](07Copy_any_code/01Lecture/01Before_Mid/01March2022)
+
+|Weeks|Lecture|Lecture|Lecture|Lecture|Lecture|Lecture|
+|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
+|Weak 1 & 2|[21feb2022](07Copy_any_code/01Lecture/01Before_Mid/21Feb2022)|Nill|Nill|[28feb2022](07Copy_any_code/01Lecture/01Before_Mid/28Feb2022)|[01March2022](07Copy_any_code/01Lecture/01Before_Mid/01March2022)
 
 ***
-#### [01. Assignment#01](07Copy_any_code/02Assignment/01Before_Mid/01Assignment#01)
+
+|Assignment 01|Assignment 02|Assignment 03|
+|:-------------:|:---------:|:-----------:|
+|[01. Assignment#01](07Copy_any_code/02Assignment/01Before_Mid/01Assignment_01)|Nill|Nill|
+
 
 # 08 Videos 
 ### Uploaded Soon
