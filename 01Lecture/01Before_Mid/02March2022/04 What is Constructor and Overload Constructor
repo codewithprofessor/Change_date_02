@@ -1,0 +1,10 @@
+What is constructor??
+A constructor is a special type of member function that is called automatically when an object is created. In C++, a constructor has the same name as that of the class and it does not have a return type. For example, class Wall { public: // create a constructor Wall() { // code } };
+
+constructor overload:
+
+The technique of having two (or more) constructors in a class is known as constructor overloading. A class can have multiple constructors that differ in the number and/or type of their parameters.
+
+Constructors can be overloaded in a similar way as function overloading. Overloaded constructors have the same name (name of the class) but the different number of arguments.
+
+
