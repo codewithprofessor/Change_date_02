@@ -1,0 +1,68 @@
+#include<iostream>
+using namespace std;
+class dis
+{
+    int feet;
+    float inch;
+    public:
+    dis()
+    {
+        feet =0;
+        inch=0;
+    }
+
+    void input()
+    {
+        cout<<"Enter the Feets: ";
+        cin>>feet;
+        cout<<"Enter the Feets: ";
+        cin>>inch;
+    }
+
+    void add()
+    {
+        dis res;
+        res.inch=inch+1;
+        res.feet=feet+1;
+        cout<<"The sum of feets=" <<res.feet<<"\""<<endl;;
+        cout<<"The sum of inchs=" <<res.inch<<"\'"<<endl;;
+    }
+    void add(dis x)
+    {
+        dis res;
+        res.inch=x.inch+inch;
+        res.feet=x.feet+feet;
+        cout<<"The sum of feets=" <<res.feet<<"\""<<endl;
+        cout<<"The sum of inchs=" <<res.inch<<"\'"<<endl;
+    }
+    void add(dis x,dis y)
+    {
+        dis res;
+        res.inch=x.inch+y.inch;
+        res.feet=x.feet+y.feet;
+        cout<<"The sum of feets=" <<res.feet<<"\""<<endl;
+        cout<<"The sum of inchs=" <<res.inch<<"\'"<<endl;
+    }
+
+
+
+};
+int main()
+{
+    // code by ali
+    dis d1;
+    cout<<"\nEtner the value for d1 \n\n";
+    d1.input();
+    d1.add();
+
+    cout<<"\nEnter the vlaue for d2\n\n";
+
+    dis d2;
+    d2.input();
+    d2.add(d1);
+    cout<<"\nThe result for d3\n\n";
+    dis d3;
+    d3.add(d1,d2);
+    
+    return 0;
+}
