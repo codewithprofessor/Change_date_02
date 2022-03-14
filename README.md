@@ -54,7 +54,12 @@
 >
 #### [6. 09March2022](01Lecture/01Before_Mid/06_09March2022)
 >    - 01 How to Member Function Return Value to Object
-
+#### [7. 14March2022](01Lecture/01Before_Mid/07_14March2022)
+>    - 01 How to use Constant and Static and How to create same memory for Many object of Same Class
+>
+>    - 02 How to us Default 
+> 
+>    - 03 Text file Related to Default and Constant
 ***
 # 02 Assignment Schedule
 #### [01. Assignment#01](02Assignment/01Before_Mid/01Assignment_01)
@@ -85,7 +90,7 @@ _
 |Weeks|Lecture|Lecture|Lecture|Lecture|Lecture|Lecture|
 |:------:|:------:|:------:|:------:|:------:|:------:|:-------:|
 |Week 1 & 2|[21feb2022](07Copy_any_code/01Lecture/01Before_Mid/01_21Feb2022)|Nill|Nill|[28feb2022](07Copy_any_code/01Lecture/01Before_Mid/02_28Feb2022)|[01March2022](07Copy_any_code/01Lecture/01Before_Mid/03_01March2022)|[02March2022](07Copy_any_code/01Lecture/01Before_Mid/04_02March2022)
-|Week 3 & 4|[07March2022](07Copy_any_code/01Lecture/01Before_Mid/05_07March2022)|Nill|[09March2022](07Copy_any_code/01Lecture/01Before_Mid/06_09March2022)||
+|Week 3 & 4|[07March2022](07Copy_any_code/01Lecture/01Before_Mid/05_07March2022)|Nill|[09March2022](07Copy_any_code/01Lecture/01Before_Mid/06_09March2022)|[14March2022](07Copy_any_code/01Lecture/01Before_Mid/07_14March2022)|
 
 ***
 

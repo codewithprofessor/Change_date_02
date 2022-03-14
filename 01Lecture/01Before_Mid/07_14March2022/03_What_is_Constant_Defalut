@@ -1,0 +1,6 @@
+DEFAULT:
+A default argument is a value provided in a function declaration that is automatically assigned by the compiler if the caller of the function doesn't provide a value for the argument with a default value.
+
+
+CONSTANT:
+A constant, like a variable, is a memory location where a value can be stored. Unlike variables, constants never change in value. You must initialize a constant when it is created. C++ has two types of constants: literal and symbolic. A literal constant is a value typed directly into your program wherever it is needed.
