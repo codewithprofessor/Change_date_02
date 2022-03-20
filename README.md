@@ -70,7 +70,10 @@
 # 02 Assignment Schedule
 #### [01. Assignment#01](02Assignment/01Before_Mid/01Assignment_01)
 >    - All Questions Are Solved
-
+#### [02. Assignment#02](02Assignment/01Before_Mid/02Assignment_02)
+>    - Chapter 06 oop 
+> 
+>    - 10 Examples 
 
 # 03 Quiz Schedule
 ##### Uploded Soon
@@ -101,7 +104,7 @@ _
 
 |Assignment 01|Assignment 02|Assignment 03|
 |:-------------:|:---------:|:-----------:|
-|[01. Assignment#01](07Copy_any_code/02Assignment/01Before_Mid/01Assignment_01)|Nill|Nill|
+|[01. Assignment#01](07Copy_any_code/02Assignment/01Before_Mid/01Assignment_01)|[02. Assignment#02](07Copy_any_code/02Assignment/01Before_Mid/02Assignment_02)|Nill|
 
 
 # 08 Videos 
