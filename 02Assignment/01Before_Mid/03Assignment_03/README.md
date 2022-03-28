@@ -20,7 +20,7 @@
 ![07](https://github.com/codewithprofessor/Change_date_02/blob/master/09Readme_Data/Readme_Image_Study/07_03.png)
 ***
 # OUTPUT08
-![08](https://github.com/codewithprofessor/Change_date_02/blob/master/09Readme_Data/Readme_Image_Study/   08_03.png)
+![08](https://github.com/codewithprofessor/Change_date_02/blob/master/09Readme_Data/Readme_Image_Study/08_03.png)
 ***
 # OUTPUT09
 ![09](https://github.com/codewithprofessor/Change_date_02/blob/master/09Readme_Data/Readme_Image_Study/09_03.png)
