@@ -76,6 +76,10 @@
 >    - 02 Friend Class
 #### [18. 18March2022](01Lecture/02After_Mid/18_18April2022)
 >    - 01 Weak Class Funciton
+#### [19. 25March2022](01Lecture/02After_Mid/19_25April2022)
+>    - 01 Operator Overloading
+#### [20. 26March2022](01Lecture/02After_Mid/20_26April2022)
+>    - 01 Lab Problems Chapter 07 Task 02 And 04
 ***
 # 02 Assignment Schedule
 #### [01. Assignment#01](02Assignment/01Before_Mid/01Assignment_01)
@@ -115,7 +119,7 @@ _
 |Week 3 & 4|[07March2022](07Copy_any_code/01Lecture/01Before_Mid/05_07March2022)|Nill|[09March2022](07Copy_any_code/01Lecture/01Before_Mid/06_09March2022)|[14March2022](07Copy_any_code/01Lecture/01Before_Mid/07_14March2022)|[15March2022](07Copy_any_code/01Lecture/01Before_Mid/08_15March2022)|[16March2022](07Copy_any_code/01Lecture/01Before_Mid/09_16March2022)
 |Week 5 & 6|Nill|Nill|Nill|Nill|-|-|
 |Week 7 & 8|-|-|-|[11April2022](07Copy_any_code/01Lecture/01Before_Mid/15_11April2022)|-|[13April2022](07Copy_any_code/01Lecture/01Before_Mid/17_13April2022)|
-|Week 9 & 10|[18April2022](07Copy_any_code/01Lecture/02After_Mid/18_18April2022)|||||
+|Week 9 & 10|[18April2022](07Copy_any_code/01Lecture/02After_Mid/18_18April2022)|Nill|Nill|[25April2022](07Copy_any_code/01Lecture/02After_Mid/19_25April2022)|[26April2022](07Copy_any_code/01Lecture/02After_Mid/20_26April2022)|
 ***
 
 |Assignment 01|Assignment 02|Assignment 03|
